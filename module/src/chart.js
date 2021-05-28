@@ -1,5 +1,6 @@
 const Noodl = require('@noodl/noodl-sdk');
-import Chart from 'chart.js';
+import Chart from 'chart.js/dist/Chart.bundle';
+
 import {useCallback} from 'react';
 
 //convert "heyHi" to "Hey Hi"
